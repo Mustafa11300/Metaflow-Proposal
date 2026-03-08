@@ -3,9 +3,9 @@
 **Project:** Metaflow Nomad Integration  
 **Organization:** Netflix / Metaflow  
 **Contributor:** Mustafa Hussain ([Mustafa11300](https://github.com/Mustafa11300))  
-**Mentor:** Madhur  
-**Project Size:** Medium (175 hours)  
-**Difficulty:** Easy  
+**Mentor:** Madhur Tandon
+**Project Size:** Large (350 hours)  
+**Difficulty:** Hard  
 
 ---
 
@@ -224,10 +224,10 @@ Unlike Kubernetes pods or Slurm jobs, Nomad uses an evaluation â†’ allocation â†
 
 **Name:** Mustafa Hussain  
 **GitHub:** [Mustafa11300](https://github.com/Mustafa11300)  
-**Email:** [your email]  
+**Email:** mustafa05121@gmail.com 
 **Timezone:** IST (UTC+5:30)  
-**University:** [Your University]  
-**Degree:** [Your Degree and Year]  
+**University:** Ajay Kumar Garg Engineering College 
+**Degree:** B.Tech CSE-DS(3rd Year) 
 
 ### Relevant Experience
 
